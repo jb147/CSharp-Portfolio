@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\VS\CodingChallenge2\obj\Debug\net8.0\CodingChallenge2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\VS\CodingChallenge2\obj\Debug\net8.0\CodingChallenge2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\VS\CodingChallenge2\obj\Debug\net8.0\CodingChallenge2.AssemblyInfo.cs
+C:\Users\admin\Desktop\VS\CodingChallenge2\obj\Debug\net8.0\CodingChallenge2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\VS\CodingChallenge2\bin\Debug\net8.0\CodingChallenge2.exe
+C:\Users\admin\Desktop\VS\CodingChallenge2\bin\Debug\net8.0\CodingChallenge2.deps.json
+C:\Users\admin\Desktop\VS\CodingChallenge2\bin\Debug\net8.0\CodingChallenge2.runtimeconfig.json
+C:\Users\admin\Desktop\VS\CodingChallenge2\bin\Debug\net8.0\CodingChallenge2.dll
+C:\Users\admin\Desktop\VS\CodingChallenge2\bin\Debug\net8.0\CodingChallenge2.pdb
+C:\Users\admin\Desktop\VS\CodingChallenge2\obj\Debug\net8.0\CodingChallenge2.dll
+C:\Users\admin\Desktop\VS\CodingChallenge2\obj\Debug\net8.0\refint\CodingChallenge2.dll
+C:\Users\admin\Desktop\VS\CodingChallenge2\obj\Debug\net8.0\CodingChallenge2.pdb
+C:\Users\admin\Desktop\VS\CodingChallenge2\obj\Debug\net8.0\CodingChallenge2.genruntimeconfig.cache
+C:\Users\admin\Desktop\VS\CodingChallenge2\obj\Debug\net8.0\ref\CodingChallenge2.dll

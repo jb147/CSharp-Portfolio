@@ -1,0 +1,16 @@
+Coding challenges
+
+1: [DONE] CodingChallenge1.sln
+Inserting, Removing, and choosing random numbers
+	a)Inserting a value (no duplicates)
+	b)Removing a value
+	c)Get at random a value that is already inserted
+
+2: [DONE] CodingChallenge2.sln
+Caesar Cipher
+
+3: [DONE] CodingChallenge3.sln
+Rock, Paper, Scissors (With Bias Mechanics)
+
+4: [NOT STARTED]
+Countdown Numbers Game

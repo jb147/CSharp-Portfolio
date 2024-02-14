@@ -1,0 +1,10 @@
+C:\Users\20349389\Desktop\VS\MiniBank\bin\Debug\MiniBank.exe.config
+C:\Users\20349389\Desktop\VS\MiniBank\bin\Debug\MiniBank.exe
+C:\Users\20349389\Desktop\VS\MiniBank\bin\Debug\MiniBank.pdb
+C:\Users\20349389\Desktop\VS\MiniBank\obj\Debug\MiniBank.csproj.AssemblyReference.cache
+C:\Users\20349389\Desktop\VS\MiniBank\obj\Debug\MiniBank.frmMiniBank.resources
+C:\Users\20349389\Desktop\VS\MiniBank\obj\Debug\MiniBank.Properties.Resources.resources
+C:\Users\20349389\Desktop\VS\MiniBank\obj\Debug\MiniBank.csproj.GenerateResource.cache
+C:\Users\20349389\Desktop\VS\MiniBank\obj\Debug\MiniBank.csproj.CoreCompileInputs.cache
+C:\Users\20349389\Desktop\VS\MiniBank\obj\Debug\MiniBank.exe
+C:\Users\20349389\Desktop\VS\MiniBank\obj\Debug\MiniBank.pdb

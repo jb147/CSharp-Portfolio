@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\VS\CreateArray\bin\Debug\net6.0\CreateArray.exe
+C:\Users\admin\Desktop\VS\CreateArray\bin\Debug\net6.0\CreateArray.deps.json
+C:\Users\admin\Desktop\VS\CreateArray\bin\Debug\net6.0\CreateArray.runtimeconfig.json
+C:\Users\admin\Desktop\VS\CreateArray\bin\Debug\net6.0\CreateArray.dll
+C:\Users\admin\Desktop\VS\CreateArray\bin\Debug\net6.0\CreateArray.pdb
+C:\Users\admin\Desktop\VS\CreateArray\obj\Debug\net6.0\CreateArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\VS\CreateArray\obj\Debug\net6.0\CreateArray.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\VS\CreateArray\obj\Debug\net6.0\CreateArray.AssemblyInfo.cs
+C:\Users\admin\Desktop\VS\CreateArray\obj\Debug\net6.0\CreateArray.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\VS\CreateArray\obj\Debug\net6.0\CreateArray.dll
+C:\Users\admin\Desktop\VS\CreateArray\obj\Debug\net6.0\refint\CreateArray.dll
+C:\Users\admin\Desktop\VS\CreateArray\obj\Debug\net6.0\CreateArray.pdb
+C:\Users\admin\Desktop\VS\CreateArray\obj\Debug\net6.0\CreateArray.genruntimeconfig.cache
+C:\Users\admin\Desktop\VS\CreateArray\obj\Debug\net6.0\ref\CreateArray.dll

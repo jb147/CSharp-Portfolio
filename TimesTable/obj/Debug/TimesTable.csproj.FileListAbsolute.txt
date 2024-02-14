@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\VS\TimesTable\bin\Debug\TimesTable.exe.config
+C:\Users\admin\Desktop\VS\TimesTable\bin\Debug\TimesTable.exe
+C:\Users\admin\Desktop\VS\TimesTable\bin\Debug\TimesTable.pdb
+C:\Users\admin\Desktop\VS\TimesTable\obj\Debug\TimesTable.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\VS\TimesTable\obj\Debug\TimesTable.Form1.resources
+C:\Users\admin\Desktop\VS\TimesTable\obj\Debug\TimesTable.Properties.Resources.resources
+C:\Users\admin\Desktop\VS\TimesTable\obj\Debug\TimesTable.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\VS\TimesTable\obj\Debug\TimesTable.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\VS\TimesTable\obj\Debug\TimesTable.exe
+C:\Users\admin\Desktop\VS\TimesTable\obj\Debug\TimesTable.pdb

@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\VS\NatoPassGen\bin\Debug\net6.0\NatoPassGen.exe
+C:\Users\admin\Desktop\VS\NatoPassGen\bin\Debug\net6.0\NatoPassGen.deps.json
+C:\Users\admin\Desktop\VS\NatoPassGen\bin\Debug\net6.0\NatoPassGen.runtimeconfig.json
+C:\Users\admin\Desktop\VS\NatoPassGen\bin\Debug\net6.0\NatoPassGen.dll
+C:\Users\admin\Desktop\VS\NatoPassGen\bin\Debug\net6.0\NatoPassGen.pdb
+C:\Users\admin\Desktop\VS\NatoPassGen\obj\Debug\net6.0\NatoPassGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\VS\NatoPassGen\obj\Debug\net6.0\NatoPassGen.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\VS\NatoPassGen\obj\Debug\net6.0\NatoPassGen.AssemblyInfo.cs
+C:\Users\admin\Desktop\VS\NatoPassGen\obj\Debug\net6.0\NatoPassGen.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\VS\NatoPassGen\obj\Debug\net6.0\NatoPassGen.dll
+C:\Users\admin\Desktop\VS\NatoPassGen\obj\Debug\net6.0\refint\NatoPassGen.dll
+C:\Users\admin\Desktop\VS\NatoPassGen\obj\Debug\net6.0\NatoPassGen.pdb
+C:\Users\admin\Desktop\VS\NatoPassGen\obj\Debug\net6.0\NatoPassGen.genruntimeconfig.cache
+C:\Users\admin\Desktop\VS\NatoPassGen\obj\Debug\net6.0\ref\NatoPassGen.dll

@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\VS\justtesting\bin\Debug\net8.0\justtesting.exe
+C:\Users\admin\Desktop\VS\justtesting\bin\Debug\net8.0\justtesting.deps.json
+C:\Users\admin\Desktop\VS\justtesting\bin\Debug\net8.0\justtesting.runtimeconfig.json
+C:\Users\admin\Desktop\VS\justtesting\bin\Debug\net8.0\justtesting.dll
+C:\Users\admin\Desktop\VS\justtesting\bin\Debug\net8.0\justtesting.pdb
+C:\Users\admin\Desktop\VS\justtesting\obj\Debug\net8.0\justtesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\VS\justtesting\obj\Debug\net8.0\justtesting.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\VS\justtesting\obj\Debug\net8.0\justtesting.AssemblyInfo.cs
+C:\Users\admin\Desktop\VS\justtesting\obj\Debug\net8.0\justtesting.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\VS\justtesting\obj\Debug\net8.0\justtesting.dll
+C:\Users\admin\Desktop\VS\justtesting\obj\Debug\net8.0\refint\justtesting.dll
+C:\Users\admin\Desktop\VS\justtesting\obj\Debug\net8.0\justtesting.pdb
+C:\Users\admin\Desktop\VS\justtesting\obj\Debug\net8.0\justtesting.genruntimeconfig.cache
+C:\Users\admin\Desktop\VS\justtesting\obj\Debug\net8.0\ref\justtesting.dll

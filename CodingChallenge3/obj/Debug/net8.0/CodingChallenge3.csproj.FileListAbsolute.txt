@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\VS\CodingChallenge3\bin\Debug\net8.0\CodingChallenge3.exe
+C:\Users\admin\Desktop\VS\CodingChallenge3\bin\Debug\net8.0\CodingChallenge3.deps.json
+C:\Users\admin\Desktop\VS\CodingChallenge3\bin\Debug\net8.0\CodingChallenge3.runtimeconfig.json
+C:\Users\admin\Desktop\VS\CodingChallenge3\bin\Debug\net8.0\CodingChallenge3.dll
+C:\Users\admin\Desktop\VS\CodingChallenge3\bin\Debug\net8.0\CodingChallenge3.pdb
+C:\Users\admin\Desktop\VS\CodingChallenge3\obj\Debug\net8.0\CodingChallenge3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\VS\CodingChallenge3\obj\Debug\net8.0\CodingChallenge3.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\VS\CodingChallenge3\obj\Debug\net8.0\CodingChallenge3.AssemblyInfo.cs
+C:\Users\admin\Desktop\VS\CodingChallenge3\obj\Debug\net8.0\CodingChallenge3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\VS\CodingChallenge3\obj\Debug\net8.0\CodingChallenge3.dll
+C:\Users\admin\Desktop\VS\CodingChallenge3\obj\Debug\net8.0\refint\CodingChallenge3.dll
+C:\Users\admin\Desktop\VS\CodingChallenge3\obj\Debug\net8.0\CodingChallenge3.pdb
+C:\Users\admin\Desktop\VS\CodingChallenge3\obj\Debug\net8.0\CodingChallenge3.genruntimeconfig.cache
+C:\Users\admin\Desktop\VS\CodingChallenge3\obj\Debug\net8.0\ref\CodingChallenge3.dll

@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\VS\AlphaSort\bin\Debug\net8.0\AlphaSort.exe
+C:\Users\admin\Desktop\VS\AlphaSort\bin\Debug\net8.0\AlphaSort.deps.json
+C:\Users\admin\Desktop\VS\AlphaSort\bin\Debug\net8.0\AlphaSort.runtimeconfig.json
+C:\Users\admin\Desktop\VS\AlphaSort\bin\Debug\net8.0\AlphaSort.dll
+C:\Users\admin\Desktop\VS\AlphaSort\bin\Debug\net8.0\AlphaSort.pdb
+C:\Users\admin\Desktop\VS\AlphaSort\obj\Debug\net8.0\AlphaSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\VS\AlphaSort\obj\Debug\net8.0\AlphaSort.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\VS\AlphaSort\obj\Debug\net8.0\AlphaSort.AssemblyInfo.cs
+C:\Users\admin\Desktop\VS\AlphaSort\obj\Debug\net8.0\AlphaSort.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\VS\AlphaSort\obj\Debug\net8.0\AlphaSort.dll
+C:\Users\admin\Desktop\VS\AlphaSort\obj\Debug\net8.0\refint\AlphaSort.dll
+C:\Users\admin\Desktop\VS\AlphaSort\obj\Debug\net8.0\AlphaSort.pdb
+C:\Users\admin\Desktop\VS\AlphaSort\obj\Debug\net8.0\AlphaSort.genruntimeconfig.cache
+C:\Users\admin\Desktop\VS\AlphaSort\obj\Debug\net8.0\ref\AlphaSort.dll
